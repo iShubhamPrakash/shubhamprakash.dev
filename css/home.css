@@ -266,3 +266,15 @@ body {
 		display: none;
 	}
 }
+
+#raju{
+	color: #fff;
+	position: absolute;
+	top: 1em;
+	left: 50%;
+	transform: translateX(-50%);
+	font-size: 1.5em;
+	z-index: 20;
+	width: 100%;
+	text-align: center;
+}
