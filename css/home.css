@@ -46,6 +46,10 @@ body {
 	top: 50%;
 	transform: translateY(-50%);
 	z-index: -1;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
 }
 
 .dev {
@@ -81,6 +85,11 @@ body {
 	top: 48%;
 	transform: translateY(-48%);
 	padding: 1em;
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
 }
 
 .name h1 {
@@ -100,6 +109,10 @@ body {
 	text-align: right;
 	line-height: 1.5;
 	opacity: 0.8;
+}
+
+.name a {
+	text-decoration: none;
 }
 
 /* .name h2:hover{
@@ -267,14 +280,44 @@ body {
 	}
 }
 
-#raju{
+#topLink {
 	color: #fff;
 	position: absolute;
 	top: 1em;
 	left: 50%;
 	transform: translateX(-50%);
-	font-size: 1.5em;
+	font-size: 1.2em;
 	z-index: 20;
 	width: 100%;
 	text-align: center;
+	background: #00abee2f;
+	width: fit-content;
+	padding: 0.5em 1em;
+	cursor: pointer;
+	border-radius: 6px;
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+#topLink:hover {
+	background: #0177b5;
+}
+
+#topLink:active {
+	background: #00acee;
+}
+
+#topLink i {
+	background: #0177b5;
+	color: #fff !important;
+	padding: 4px;
+	border-radius: 4px;
+}
+
+#topLink:hover i {
+	background: #fff;
+	color: #0177b5 !important;
 }
