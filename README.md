@@ -4,7 +4,7 @@
 
 * **Location**: Bengaluru, Karnataka, India
 * **Phone (Work)**: +91 7903652020
-* **Email**: shubham.prakash@outlook.in
+* **Email**: shubham_prakash@icloud.com
 * **LinkedIn**: [www.linkedin.com/in/ishubhamprakash](https://www.linkedin.com/in/ishubhamprakash)
 * **Personal Website**: https://shubhamprakash.dev
 * **Blog**: https://blog.shubhamprakash.dev

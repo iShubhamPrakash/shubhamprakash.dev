@@ -5,17 +5,19 @@
     "initials": "SP",
     "location": "Bengaluru, Karnataka, India",
     "phone": "+91 7903652020",
-    "email": "shubham.prakash@outlook.in",
+    "email": "shubham_prakash@icloud.com",
     "linkedin": "https://www.linkedin.com/in/ishubhamprakash",
     "website": "https://shubhamprakash.dev",
     "blog": "https://blog.shubhamprakash.dev",
     "github": "https://github.com/iShubhamPrakash",
+    "resumeUrl": "https://docs.google.com/document/d/1jIfRZ-U1z_GaC5KZl3A0CQAage7l7EqR1j3S2liyiKA",
+    "avatarUrl": "https://gravatar.com/avatar/1a3e95a38492dd26acdeab53a5fbaf6dd8850264411abb946f9328eb9fbe0969?s=500",
     "availability": {
       "status": "Available for new opportunities",
-      "type": "SDE2/SDE3 roles in product-based companies"
+      "type": "SDE2/SDE3 roles in product-based companies or innovative startups"
     }
   },
-  "summary": "Experienced Full Stack Software Engineer (4+ years), specializing in building high-performing user interfaces and robust backend solutions, with deep expertise in Frontend development. Proven ability to lead complex technical initiatives, design scalable systems, and drive significant product and business impact within fast-paced startup environments. Adept at architectural design and leveraging P/MERN stack technologies, including extensive experience in AI/LLM integration using OpenAI, Anthropic, and Google models. Currently driving AI/LLM adoption for clients at DabbleLab and actively mentoring at Udacity, contributing to student success and quality assurance in educational programs. Seeking SDE2/SDE3 roles in product-based companies and innovative startups where I can apply my comprehensive technical skills and leadership capabilities.",
+  "summary": "Experienced Full Stack Software Engineer (4+ years), specializing in building high-performing user interfaces and robust backend solutions, with deep expertise in Frontend development. Proven ability to lead complex technical initiatives, design scalable systems, and drive significant product and business impact within fast-paced startup environments. Adept at architectural design and leveraging P/MERN stack technologies, including extensive experience in AI/LLM integration using OpenAI, Anthropic, and Google models. Currently driving AI/LLM adoption for clients at DabbleLab and actively mentoring at Udacity, contributing to student success and quality assurance in educational programs. Open for SDE2/SDE3 roles in product-based companies and innovative startups where I can apply my comprehensive technical skills and leadership capabilities.",
   "topSkills": [
     "Full Stack Development",
     "API Integration",
@@ -92,6 +94,7 @@
     },
     {
       "company": "Remote",
+      "url": "https://remote.com/",
       "location": "905 McCarthy Ct, El Segundo, CA 90245-2447, United States",
       "roles": [
         {
@@ -122,6 +125,7 @@
     },
     {
       "company": "Dabble Lab",
+      "url": "https://dabblelab.com",
       "location": "Tampa, Florida, United States",
       "roles": [
         {
@@ -164,6 +168,7 @@
     },
     {
       "company": "Udacity",
+      "url": "https://udacity.com",
       "location": "Mountain View, California, United States",
       "roles": [
         {
@@ -184,6 +189,7 @@
     },
     {
       "company": "Scoar",
+      "url": "https://www.linkedin.com/company/topscoar/",
       "location": "Kolkata, West Bengal, India",
       "roles": [
         {
@@ -203,6 +209,7 @@
     },
     {
       "company": "Listiee",
+      "url": "https://www.linkedin.com/company/listiee/",
       "location": "Remote",
       "roles": [
         {
@@ -222,6 +229,7 @@
     },
     {
       "company": "Fireblaze Technologies Pvt. Ltd.",
+      "url": "https://www.linkedin.com/company/fireblazetechnologies/",
       "location": "Remote",
       "roles": [
         {
@@ -257,56 +265,66 @@
     {
       "name": "React Developer Nanodegree",
       "issuer": "Udacity",
-      "date": ""
+      "date": "",
+      "url": "https://drive.google.com/file/d/1D9z_PgrxJQ6NveFMd-dqTbcYbHoxEc9F/view?usp=sharing"
     },
     {
       "name": "Intermediate JavaScript Nanodegree",
       "issuer": "Udacity",
-      "date": ""
+      "date": "",
+      "url": "https://confirm.udacity.com/WF3LGYWG"
     },
     {
       "name": "Peer Audits at Udacity Nanodegree",
       "issuer": "Udacity",
-      "date": ""
+      "date": "",
+      "url": "https://confirm.udacity.com/MMZZFLVP"
     },
     {
       "name": "Twilio Certified Flex developer and Flex Partner",
       "issuer": "Twilio",
-      "date": ""
+      "date": "",
+      "url": "https://drive.google.com/file/d/1oHXvmrpioxXJssXyDdm6xqTh0_we3Qpq/view"
     },
     {
       "name": "Twilio Platform Certification for Partners",
       "issuer": "Twilio",
-      "date": ""
+      "date": "",
+      "url": "https://drive.google.com/file/d/1Duwtn_ZrekjjZT7MmQaYGN6mNuKUwYDZ/view?usp=sharing"
     },
     {
       "name": "JavaScript: Test-Driven Development (ES6)",
       "issuer": "LinkedIn Learning",
-      "date": "Oct 2020"
+      "date": "Oct 2020",
+      "url": "https://www.linkedin.com/learning/javascript-test-driven-development-es6"
     },
     {
       "name": "Udacity Mentorship Nanodegree",
       "issuer": "Udacity",
-      "date": "Sept 2020"
+      "date": "Sept 2020",
+      "url": "https://graduation.udacity.com/confirm/DYQPKJLM"
     },
     {
       "name": "Front End Beta Testing Nanodegree",
       "issuer": "Udacity",
-      "date": "April 2020"
+      "date": "April 2020",
+      "url": "https://confirm.udacity.com/MHHNAF2U"
     },
     {
       "name": "Front-End Web UI Frameworks and Tools",
       "issuer": "Coursera",
-      "date": "Oct 2018"
+      "date": "Oct 2018",
+      "url": "https://www.coursera.org/account/accomplishments/verify/73D9ZL48S455"
     },
     {
       "name": "Fundamentals of Digital Marketing",
       "issuer": "Google",
-      "date": "Sept 2018"
+      "date": "Sept 2018",
+      "url": "https://drive.google.com/file/d/1XDGpRxl6jDGSsrvGACj7dNjD0x2yYAEm/view?usp=sharing"
     }
   ],
   "contact": {
-    "email": "shubham.prakash@outlook.in",
+    "email": "shubham_prakash@icloud.com",
     "phone": "+91 7903652020",
     "location": "Bengaluru, Karnataka, India",
     "social": [
@@ -321,6 +339,14 @@
       {
         "name": "Blog",
         "url": "https://blog.shubhamprakash.dev"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/iShubhamPrakash"
+      },
+      {
+        "name": "Resume",
+        "url": "https://docs.google.com/document/d/1jIfRZ-U1z_GaC5KZl3A0CQAage7l7EqR1j3S2liyiKA"
       }
     ]
   },
